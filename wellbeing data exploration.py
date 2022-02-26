@@ -404,7 +404,7 @@ high_corr.head()
 # In[46]:
 
 
-# Achievement and supporting others have the highest corelation to work life balance score
+# Achievement and supporting others have the highest correlation to work life balance score
 
 # meditation and fruits and veggies have a low correlation, and i was wrong
 
