@@ -120,7 +120,7 @@ Importance <- varImp(Model)
 plot(Importance)
 plot(Importance, col = "red")
 
-# we can see from the feature of importance that Al was the most consistently important variable in the output of the predictions
-# For headlamps, Mg and Al were the 2 most important variables contributing to the output of the prediction.
-#For tableware, vehicle_windows_float_processed and building_windows_float_processed, Ba did not influence the prediction result
+# we can see from the feature of importance that Aluminium (Al) was the most consistently important variable in the output of the predictions
+# For headlamps, Mg (Magnesium) and Al were the 2 most important variables contributing to the output of the prediction.
+#For tableware, vehicle_windows_float_processed and building_windows_float_processed, Barium (Ba) did not influence the prediction result
 
