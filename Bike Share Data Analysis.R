@@ -1,13 +1,13 @@
 # The Business Task: Convert casual riders into members.
 
 # The goal of the marketing team is to design marketing strategies aimed at converting casual riders into annual members.
-# My task is to answer one of three questions that will guide the future marketing program - How do annual members and casual riders use Cyclistic bikes differently?
+# My task is to answer one of three questions that will guide the future marketing program - How do annual members and casual riders use Superior Cycles Bolton bikes differently?
 
-# Company: Cyclistic, a bike-share company in Chicago (fictional). A bike-share program that features more than 5,800 bicycles and 600 docking stations. 
-# Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike.
+# Company: Superior Cycles Bolton. A bike-share program that features more than 5,800 bicycles and 600 docking stations. 
+# Superior Cycles Bolton sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike.
 
 
-#The other two questions are: 1) Why would casual riders buy Cyclistic annual memberships? 2) How can Cyclistic use digital media to influence casual riders to become members?
+# The other two questions are: 1) Why would casual riders buy Superior Cycles Bolton annual memberships? 2) How can Cyclistic use digital media to influence casual riders to become members?
   
 #Key Stakeholders
 
